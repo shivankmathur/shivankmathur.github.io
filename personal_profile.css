@@ -1,0 +1,49 @@
+#intro
+{
+  background:url('def8.jpg') fixed;
+  background-size: cover;
+
+  height: 650px;
+}
+
+#intro .row
+{
+  margin-top: 4%
+}
+
+#intro .box{
+  
+  color: white;
+}
+
+#intro .box h3
+{
+  margin-top: 22%;
+  margin-left: 11%;
+  font-family: "adobe-garamond-pro";
+  font-size: 24px;
+  line-height: 1.5em;
+  text-transform: none;
+  letter-spacing: 1px;
+  font-weight: 400;
+  font-style: italic;
+}
+
+#intro .box h1
+{
+  margin-left: 2%;
+  display: block;
+    font-family: "proxima-nova","Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-size: 70px;
+  line-height: 1em;
+  text-transform: uppercase;
+  letter-spacing: 4px;
+  font-weight: 700;
+  font-style: normal;
+}
+
+#intro .box button
+{
+    margin-top: 4%;
+      margin-left: 24%;
+}
