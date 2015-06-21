@@ -113,3 +113,53 @@ i
   color: black;
 }
 
+/*----------------------------------------------------------------------------------------------------------------*/
+
+#fun-facts h2
+{
+  font-family: "proxima-nova";
+    padding-top: 75px;
+  padding-bottom: 17px;
+ 
+}
+
+#fun-facts p
+{
+  font-family: "proxima-nova";
+  font-size: 15px;
+  line-height: 1.8em;
+  letter-spacing: 0px;
+  font-weight: 400;
+  font-style: normal;
+  padding-top: 10px;
+  padding-right: 345px;
+  padding-left: 356px;
+  padding-bottom: 75px;
+}
+#fun-facts hr
+{
+  background-color: black;
+    height: 1px;
+    width: 90px;
+}
+#extra-curricular h2
+{
+  font-family: "proxima-nova";
+    padding-top: 75px;
+  padding-bottom: 17px;
+ 
+}
+
+#extra-curricular p
+{
+  font-family: "proxima-nova";
+  font-size: 15px;
+  line-height: 1.8em;
+  letter-spacing: 0px;
+  font-weight: 400;
+  font-style: normal;
+  padding-top: 10px;
+  padding-right: 345px;
+  padding-left: 356px;
+  padding-bottom: 75px;
+}
