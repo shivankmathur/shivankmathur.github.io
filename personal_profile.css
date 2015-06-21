@@ -1,6 +1,6 @@
 #intro
 {
-  background:url('def8.jpg') fixed;
+  background:url('images/def8.jpg') fixed;
   background-size: cover;
 
   height: 650px;
@@ -72,3 +72,44 @@
 }
 
 /*------------------------------------------------------------------------------------------------------------------*/
+
+#ava h1
+{
+  padding-left: 37%;
+}
+#ava
+{
+  margin-top: 4%;
+  opacity: 0.6;
+}
+
+#avatar
+{
+  background:url('images/ghi5.jpg') fixed;
+  background-size: cover;
+  height: 850px;
+}
+
+#avatar .box
+{
+  color: white;
+}
+
+#avatar .row
+{
+  padding-top: 6%;
+  padding-left: 14%;
+  padding-right: 14%;
+}
+
+i
+{
+  color: white;
+  
+}
+
+#ava .fa-5x
+{
+  color: black;
+}
+
