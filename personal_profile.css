@@ -161,5 +161,85 @@ i
   padding-top: 10px;
   padding-right: 345px;
   padding-left: 356px;
-  padding-bottom: 75px;
+  padding-bottom: 83px;
+}
+
+/*--------------------------------------------------------------------------------------------------------------*/
+
+#key-attributes .row
+{
+  margin-top: 4%
+}
+
+#key-attributes .box{
+  
+  color: white;
+}
+
+#key-attributes
+{
+  background:url('images/def7.jpg') fixed;
+  background-size: cover;
+
+  height: 370px;
+}
+
+#key-attributes .box h3
+{
+  margin-top: 10%;
+  margin-left: 19%;
+  font-family: "adobe-garamond-pro";
+  font-size: 24px;
+  line-height: 1.5em;
+  text-transform: none;
+  letter-spacing: 1px;
+  font-weight: 400;
+  font-style: italic;
+}
+
+#key-attributes .box h1
+{
+  margin-left: -19%;
+  display: block;
+    font-family: "proxima-nova","Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-size: 70px;
+  line-height: 1em;
+  text-transform: uppercase;
+  letter-spacing: 4px;
+  font-weight: 700;
+  font-style: normal;
+}
+
+#key
+{
+  padding-top: 120px;
+}
+#key .row
+{
+  padding-top: 0px;
+}
+
+#key .box
+{
+  background-color: black;
+  color: white;
+  
+}
+
+#key .fa-3x
+{
+  padding-top: 40px;
+}
+
+#key p
+{
+  padding-bottom: 40px;
+  padding-left: 50px;
+  padding-right: 50px;
+  opacity: 0.8;
+}
+
+.col2
+{
+    margin-left: -21px;
 }
